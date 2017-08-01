@@ -7,6 +7,7 @@ export default class App extends Component {
     return (
       <div>
         <SearchBar />
+          <p>commit changes</p>
         <WeatherList />
       </div>
     );
